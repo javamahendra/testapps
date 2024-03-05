@@ -1,3 +1,5 @@
+Spring Apps:
+
 Handling Spring applications involves various aspects such as project structure, dependency management, configuration, and coding practices. Here are some general guidelines on how to handle Spring applications effectively:
 
 1. Project Structure:
